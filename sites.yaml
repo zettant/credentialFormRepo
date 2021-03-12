@@ -288,3 +288,23 @@ accounts.dmm.co.jp:
       attr: id
       index: 0
       value: password
+
+
+peatix.com:
+  idPassButton:
+  - button:
+      attr: id
+      index: 0
+      value: next-button
+    id:
+      attr: name
+      index: 0
+      value: username
+  - button:
+      attr: name
+      index: 0
+      value: signin_Peatix
+    password:
+      attr: id
+      index: 0
+      value: password
