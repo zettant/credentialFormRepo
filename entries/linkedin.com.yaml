@@ -1,0 +1,14 @@
+accounts.spotify.com:
+  idPassButton:
+  - button:
+      attr: data-litms-control-urn
+      index: 0
+      value: login-submit
+    id:
+      attr: id
+      index: 0
+      value: username
+    password:
+      attr: id
+      index: 0
+      value: password
