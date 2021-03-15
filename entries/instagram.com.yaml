@@ -1,14 +1,14 @@
-www.linkedin.com:
+www.instagram.com:
   idPassButton:
   - button:
-      attr: data-litms-control-urn
+      attr: type
       index: 0
-      value: login-submit
+      value: submit
     id:
-      attr: id
+      attr: name
       index: 0
       value: username
     password:
-      attr: id
+      attr: name
       index: 0
       value: password
