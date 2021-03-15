@@ -53,4 +53,5 @@ jobs:
         git add -f sites.json
         git commit -m 'update sites.json [Github Actions]'
         git pull
-        git push origin main
+        git checkout -b main
+        git push -f origin main
