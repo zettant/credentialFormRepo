@@ -1,0 +1,14 @@
+www.expedia.co.jp:
+  idPassButton:
+  - button:
+      attr: id
+      index: 0
+      value: submitButton
+    id:
+      attr: name
+      index: 0
+      value: signin-loginid
+    password:
+      attr: name
+      index: 0
+      value: signin-password
