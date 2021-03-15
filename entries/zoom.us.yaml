@@ -1,0 +1,14 @@
+feedly.com:
+  idPassButton:
+  - button:
+      attr: class
+      index: 0
+      value: "btn btn-primary signin user" 
+    id:
+      attr: name
+      index: 0
+      value: email
+    password:
+      attr: name
+      index: 0
+      value: password
