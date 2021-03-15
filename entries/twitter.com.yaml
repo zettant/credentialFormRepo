@@ -1,0 +1,18 @@
+twitter.com:
+  idPassButton:
+  - button:
+      attr: data-testid
+      index: 0
+      value: LoginForm_Login_Button
+    id:
+      attr: name
+      index: 0
+      value: session[username_or_email]
+    password:
+      attr: name
+      index: 0
+      value: session[password]
+  mutationTarget:
+    attr: id
+    index: 0
+    value: react-root

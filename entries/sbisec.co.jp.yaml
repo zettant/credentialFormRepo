@@ -1,0 +1,14 @@
+www.sbisec.co.jp:
+  idPassButton:
+    - button:
+        attr: name
+        index: 0
+        value: ACT_login
+      id:
+        attr: name
+        index: 0
+        value: user_id
+      password:
+        attr: name
+        index: 0
+        value: user_password

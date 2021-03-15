@@ -1,0 +1,33 @@
+idmsa.apple.com:
+  idPassButton:
+  - button:
+      attr: class
+      index: 0
+      value: icon icon_sign_in
+    id:
+      attr: id
+      index: 0
+      value: account_name_text_field
+  - button:
+      attr: class
+      index: 0
+      value: icon icon_sign_in
+    password:
+      attr: id
+      index: 0
+      value: password_text_field
+
+secure4.store.apple.com:
+  idPassButton:
+  - button:
+      attr: data-autom
+      index: 0
+      value: signin-submit-button
+    id:
+      attr: data-autom
+      index: 0
+      value: signin-appleid
+    password:
+      attr: data-autom
+      index: 0
+      value: signin-password

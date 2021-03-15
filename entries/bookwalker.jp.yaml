@@ -1,0 +1,14 @@
+member.bookwalker.jp:
+  idPassButton:
+  - button:
+      attr: id
+      index: 0
+      value: loginBtn
+    id:
+      attr: id
+      index: 0
+      value: mailAddress
+    password:
+      attr: id
+      index: 0
+      value: password

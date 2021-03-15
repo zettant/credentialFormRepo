@@ -1,0 +1,14 @@
+www.jal.co.jp:
+  idPassButton:
+  - button:
+      attr: class
+      index: 0
+      value: btn-rd JS_memLoginSubmit
+    id:
+      attr: id
+      index: 0
+      value: memberId
+    password:
+      attr: id
+      index: 0
+      value: JS_passwordCd

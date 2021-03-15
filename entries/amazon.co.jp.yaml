@@ -1,0 +1,18 @@
+www.amazon.co.jp:
+  idPassButton:
+  - button:
+      attr: aria-labelledby
+      index: 0
+      value: continue-announce
+    id:
+      attr: name
+      index: 0
+      value: email
+  - button:
+      attr: id
+      index: 0
+      value: signInSubmit
+    password:
+      attr: name
+      index: 0
+      value: password

@@ -1,0 +1,14 @@
+grp04.id.rakuten.co.jp:
+  idPassButton:
+  - button:
+      attr: name
+      index: 0
+      value: submit
+    id:
+      attr: name
+      index: 0
+      value: u
+    password:
+      attr: name
+      index: 0
+      value: p

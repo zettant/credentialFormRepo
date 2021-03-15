@@ -1,0 +1,14 @@
+id.nikkei.com:
+  idPassButton:
+  - button:
+      attr: class
+      index: 0
+      value: btnM1
+    id:
+      attr: name
+      index: 0
+      value: LA7010Form01:LA7010Email
+    password:
+      attr: name
+      index: 0
+      value: LA7010Form01:LA7010Password

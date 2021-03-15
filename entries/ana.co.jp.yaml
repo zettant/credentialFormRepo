@@ -1,0 +1,14 @@
+www.ana.co.jp:
+  idPassButton:
+  - button:
+      attr: name
+      index: 0
+      value: login
+    id:
+      attr: name
+      index: 0
+      value: custno
+    password:
+      attr: name
+      index: 0
+      value: password

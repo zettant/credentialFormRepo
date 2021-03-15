@@ -1,0 +1,14 @@
+www.facebook.com:
+  idPassButton:
+  - button:
+      attr: name
+      index: 0
+      value: login
+    id:
+      attr: name
+      index: 0
+      value: email
+    password:
+      attr: name
+      index: 0
+      value: pass
