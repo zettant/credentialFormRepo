@@ -1,0 +1,14 @@
+www.airbnb.jp:
+  idPassButton:
+  - button:
+      attr: data-testid
+      index: 0
+      value: signup-login-submit-btn
+    id:
+      attr: name
+      index: 0
+      value: email
+    password:
+      attr: name
+      index: 0
+      value: password
