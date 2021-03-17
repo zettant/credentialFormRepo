@@ -1,0 +1,14 @@
+bitflyer.com:
+  idPassButton:
+  - button:
+      attr: id
+      index: 0
+      value: MainContent_Button1
+    id:
+      attr: id
+      index: 0
+      value: MainContent_email
+    password:
+      attr: name
+      index: 0
+      value: MainContent_password
