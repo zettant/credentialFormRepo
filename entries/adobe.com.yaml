@@ -13,6 +13,6 @@ auth.services.adobe.com:
       index: 0
       value: PasswordPage-ContinueButton
     password:
-      attr: name
+      attr: id
       index: 0
-      value: password
+      value: PasswordPage-PasswordField
