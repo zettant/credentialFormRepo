@@ -1,0 +1,14 @@
+qiita.com:
+  idPassButton:
+  - button:
+      attr: name
+      index: 0
+      value: commit
+    id:
+      attr: id
+      index: 0
+      value: identity
+    password:
+      attr: id
+      index: 0
+      value: password
