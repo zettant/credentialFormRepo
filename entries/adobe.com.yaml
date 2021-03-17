@@ -8,6 +8,7 @@ auth.services.adobe.com:
       attr: name
       index: 0
       value: username
+  - wait: 1000
   - button:
       attr: data-id
       index: 0
