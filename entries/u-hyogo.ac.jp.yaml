@@ -1,0 +1,14 @@
+unipa.u-hyogo.ac.jp:
+  idPassButton:
+  - button:
+      attr: id
+      index: 0
+      value: loginForm:loginButton
+    id:
+      attr: id
+      index: 0
+      value: loginForm:userId
+    password:
+      attr: id
+      index: 0
+      value: loginForm:password
