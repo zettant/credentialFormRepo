@@ -9,6 +9,6 @@ bitflyer.com:
       index: 0
       value: MainContent_email
     password:
-      attr: name
+      attr: id
       index: 0
       value: MainContent_password
