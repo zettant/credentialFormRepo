@@ -1,0 +1,14 @@
+my.uqmobile.jp:
+  idPassButton:
+  - button:
+      attr: data-bind
+      index: 0
+      value: "click: login"
+    id:
+      attr: id
+      index: 0
+      value: myPortalId
+    password:
+      attr: id
+      index: 0
+      value: password
