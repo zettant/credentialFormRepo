@@ -1,0 +1,14 @@
+www.slideshare.net:
+  idPassButton:
+  - button:
+      attr: id
+      index: 0
+      value: login_from_loginpage
+    id:
+      attr: name
+      index: 0
+      value: user_login
+    password:
+      attr: name
+      index: 0
+      value: user_password
