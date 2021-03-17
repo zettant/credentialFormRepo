@@ -1,0 +1,18 @@
+auth.services.adobe.com:
+  idPassButton:
+  - button:
+      attr: data-id
+      index: 0
+      value: EmailPage-ContinueButton
+    id:
+      attr: name
+      index: 0
+      value: username
+  - button:
+      attr: data-id
+      index: 0
+      value: PasswordPage-ContinueButton
+    password:
+      attr: name
+      index: 0
+      value: password
