@@ -1,0 +1,14 @@
+knp01.mul-pay.jp:
+  idPassButton:
+  - button:
+      attr: class
+      index: 0
+      value: "btn btn-info"
+    id:
+      attr: id
+      index: 0
+      value: username
+    password:
+      attr: id
+      index: 0
+      value: password
