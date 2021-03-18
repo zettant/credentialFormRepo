@@ -1,0 +1,14 @@
+shinkansen2.jr-central.co.jp:
+  idPassButton:
+  - button:
+      attr: rel
+      index: 0
+      value: log-but-1
+    id:
+      attr: id
+      index: 0
+      value: pw-2
+    password:
+      attr: id
+      index: 0
+      value: pw-1
