@@ -1,0 +1,14 @@
+member.jtb.co.jp:
+  idPassButton:
+  - button:
+      attr: onclick
+      index: 0
+      value: "loginsubmit2('1')"
+    id:
+      attr: id
+      index: 0
+      value: idLoginUserID
+    password:
+      attr: id
+      index: 0
+      value: idLoginPassword
