@@ -1,0 +1,14 @@
+shops.knt.co.jp:
+  idPassButton:
+  - button:
+      attr: id
+      index: 0
+      value: btnLogin
+    id:
+      attr: id
+      index: 0
+      value: txtKmcAccount
+    password:
+      attr: id
+      index: 0
+      value: txtKmcPassword
