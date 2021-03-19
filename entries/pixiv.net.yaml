@@ -5,10 +5,10 @@ accounts.pixiv.net:
       index: 0
       value: submit
     id:
-      attr: auto-complete
+      attr: autocomplete
       index: 0
       value: username
     password:
-      attr: auto-complete
+      attr: autocomplete
       index: 0
       value: current-password
