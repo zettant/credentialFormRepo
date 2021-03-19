@@ -9,6 +9,6 @@ accounts.pixiv.net:
       index: 0
       value: username
     password:
-      attr: autocomplete
+      attr: placeholder
       index: 0
       value: password
