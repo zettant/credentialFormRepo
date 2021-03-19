@@ -1,0 +1,14 @@
+npmjs.com:
+  idPassButton:
+  - button:
+      attr: type
+      index: 0
+      value: submit
+    id:
+      attr: id
+      index: 0
+      value: login_username
+    password:
+      attr: id
+      index: 0
+      value: login_password
