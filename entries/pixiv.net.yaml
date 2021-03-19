@@ -5,10 +5,10 @@ accounts.pixiv.net:
       index: 1
       value: signup-form__submit
     id:
-      attr: placeholder
+      attr: autocomplete
       index: 0
-      value: "E-mail address / pixiv ID"
+      value: username
     password:
-      attr: placeholder
+      attr: autocomplete
       index: 0
       value: password
