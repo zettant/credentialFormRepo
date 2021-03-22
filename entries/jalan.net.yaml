@@ -1,0 +1,14 @@
+jalan.net:
+  idPassButton:
+  - button:
+      attr: name
+      index: 0
+      value: fn_input
+    id:
+      attr: name
+      index: 0
+      value: mainEmail
+    password:
+      attr: name
+      index: 0
+      value: passwd
