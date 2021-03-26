@@ -12,3 +12,9 @@ www.jal.co.jp:
       attr: id
       index: 0
       value: JS_passwordCd
+  passwordPolicy:
+    minLength: 6
+    maxLength: 6
+    lowercase: false
+    uppercase: false
+    number: true

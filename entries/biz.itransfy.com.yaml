@@ -12,3 +12,6 @@ biz.itransfy.com:
       attr: id
       index: 0
       value: loginuserpasswordinput
+  passwordPolicy:
+    maxLength: 32
+

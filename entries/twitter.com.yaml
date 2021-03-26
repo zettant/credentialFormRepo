@@ -16,3 +16,11 @@ twitter.com:
     attr: id
     index: 0
     value: react-root
+  passwordPolicy:
+    maxLength: 32
+    lowercase: true
+    uppercase: true
+    number: true
+    symbol: true
+    strict: true
+

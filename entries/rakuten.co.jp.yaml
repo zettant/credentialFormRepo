@@ -12,6 +12,8 @@ grp01.id.rakuten.co.jp:
       attr: name
       index: 0
       value: p
+  passwordPolicy:
+    maxLength: 20
 
 grp02.id.rakuten.co.jp:
   idPassButton:
@@ -27,6 +29,8 @@ grp02.id.rakuten.co.jp:
       attr: name
       index: 0
       value: p
+  passwordPolicy:
+    maxLength: 20
 
 grp03.id.rakuten.co.jp:
   idPassButton:
@@ -42,6 +46,8 @@ grp03.id.rakuten.co.jp:
       attr: name
       index: 0
       value: p
+  passwordPolicy:
+    maxLength: 20
 
 grp04.id.rakuten.co.jp:
   idPassButton:
@@ -57,3 +63,5 @@ grp04.id.rakuten.co.jp:
       attr: name
       index: 0
       value: p
+  passwordPolicy:
+    maxLength: 20
