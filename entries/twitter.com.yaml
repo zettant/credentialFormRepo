@@ -20,7 +20,7 @@ twitter.com:
     maxLength: 32
     lowercase: true
     uppercase: true
-    number: true
-    symbol: true
+    numbers: true
+    symbols: true
     strict: true
 

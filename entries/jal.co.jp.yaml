@@ -17,4 +17,4 @@ www.jal.co.jp:
     maxLength: 6
     lowercase: false
     uppercase: false
-    number: true
+    numbers: true
